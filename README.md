@@ -35,7 +35,7 @@
 * [Customer Journey](https://github.com/IBM-EPBL/IBM-Project-39444-1660448362/blob/main/Project%20design%20%26%20Planning/Project%20Design%20Phase%20II/Customer%20Journey.pdf)
 * [Data Flow Diagrams & User Stories](https://github.com/IBM-EPBL/IBM-Project-39444-1660448362/blob/main/Project%20design%20%26%20Planning/Project%20Design%20Phase%20II/DATA%20FLOW%20DIAGRAMS%20AND%20USER%20STORIES.pdf)
 * [Functional Requirement](https://github.com/IBM-EPBL/IBM-Project-39444-1660448362/blob/main/Project%20design%20%26%20Planning/Project%20Design%20Phase%20II/Functional_Requirements.pdf)
-* [Technology Architecture]https://github.com/IBM-EPBL/IBM-Project-39444-1660448362/blob/main/Project%20design%20%26%20Planning/Project%20Design%20Phase%20II/Technology%20Architecture.pdf)
+* [Technology Architecture](https://github.com/IBM-EPBL/IBM-Project-39444-1660448362/blob/main/Project%20design%20%26%20Planning/Project%20Design%20Phase%20II/Technology%20Architecture.pdf)
 * [Technology Stack](https://github.com/IBM-EPBL/IBM-Project-39444-1660448362/blob/main/Project%20design%20%26%20Planning/Project%20Design%20Phase%20II/Technology%20Architecture.pdf)
 
 
